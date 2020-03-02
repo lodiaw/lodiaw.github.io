@@ -1,0 +1,100 @@
+body{
+    background: url("../Images et Videos/arriere_plan\ \(3\).jpg" ) no-repeat center center fixed;
+    background-size: cover; 
+}
+
+#principal{
+    background-color:lightgoldenrodyellow;
+    height: 2000px;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#entete{
+    background-color:gray;
+    height: 180px;
+    width: 1100px;
+}
+
+#menu{
+    background-color: gold;
+    height: 60px;
+    width: 1100px;
+}
+
+#contenu{
+    background-color: lightgoldenrodyellow;
+    height: 1800px;
+    width: 1100px;
+}
+
+#piedpage{
+    background-color:gold;
+    height: 40px;
+    width: 1100px;
+}
+
+#entete>img,.v{
+    height: 200px;
+    width: 1100px;
+}
+
+#menu ul>li {
+    display: inline-block;
+    padding:19px 40px ;
+    text-align: center;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+    size: 100px;
+}
+
+#menu li:hover{
+    background-color: white;
+    cursor: pointer;
+    border: solid black;
+
+}
+
+li>a:hover{
+color:red;}
+
+li>a:active{
+    color:black;
+}
+
+.ville{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 6cm;
+    width: 15cm;
+}
+
+.ville2,video{
+    width: 500px;
+    height: 6cm;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.v2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 4cm;
+    width: 15cm;
+}
+
+.z{
+    text-align: center;
+    padding: 15px 
+}
+    
+    
